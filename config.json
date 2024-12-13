@@ -1,0 +1,1 @@
+{"model_save_path": "model/output_model_cnn6.pth", "learning_rate": 0.001, "max_epochs": 20, "devices": [0, 1]}
