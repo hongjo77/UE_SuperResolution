@@ -18,7 +18,7 @@
 ## Dataset
 
 - **데이터셋 출처**: [Generate UE Stylized Data](https://gitlab.informatik.uni-wuerzburg.de/Brandner/generate_ue_stylized_data)  
-  본 프로젝트에서 사용된 데이터셋은 위 링크의 언리얼 프로젝트 맵에서 추출됩니다.
+  데이터셋 파일 크기가 커서 업로드하지 못하고 사용한 맵의 출처를 밝힙니다.
 
 - **데이터셋 구성**:
   - **LR/**: 저해상도 이미지
