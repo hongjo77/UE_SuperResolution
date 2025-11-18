@@ -3,6 +3,8 @@
 파이썬 머신러닝 프로젝트  
 언리얼 엔진5를 이용한 이미지 Super Resolution
 
+[![Watch the video](https://youtu.be/rNeSgymj7es/hqdefault.jpg)](https://youtu.be/rNeSgymj7es)
+
 ## Files
 
 - **Model.ipynb**: 메인 코드
